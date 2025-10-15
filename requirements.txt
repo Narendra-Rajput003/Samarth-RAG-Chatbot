@@ -10,7 +10,7 @@ uvicorn==0.30.0
 streamlit==1.38.0
 python-jose[cryptography]==3.3.0
 python-multipart==0.0.9
-pandas==2.1.4
+pandas==2.2.3
 numpy==1.26.0
 xarray==2024.7.0
 fuzzywuzzy==0.18.0
