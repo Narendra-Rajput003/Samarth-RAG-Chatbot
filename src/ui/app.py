@@ -303,7 +303,9 @@ if not st.session_state.show_welcome:
         # Assistant response with enhanced formatting
         with st.spinner("🧠 Analyzing data sources..."):
             try:
-                response = requests.post("http://localhost:8000/query", json={"question": prompt})
+                # Use environment variable for API URL, fallback to localhost for local development
+                api_url = os.getenv("API_URL", "http://localhost:8000")
+                response = requests.post(f"{api_url}/query", json={"question": prompt})
                 if response.status_code == 200:
                     data = response.json()
 

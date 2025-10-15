@@ -15,3 +15,19 @@ services:
         value: "sentence-transformers/all-MiniLM-L6-v2"
       - key: JWT_SECRET
         sync: false
+  - type: web
+    name: samarth-rag-ui
+    runtime: python3
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run src/ui/app.py --server.port $PORT --server.address 0.0.0.0
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: MAX_CHUNK_SIZE
+        value: "1000"
+      - key: EMBEDDING_MODEL
+        value: "sentence-transformers/all-MiniLM-L6-v2"
+      - key: JWT_SECRET
+        sync: false
