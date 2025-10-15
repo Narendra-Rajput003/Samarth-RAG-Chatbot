@@ -1,0 +1,31 @@
+State,District,Crop,Season,Area_hectares,Yield_tonnes,Production_tonnes,Temperature_C,Rainfall_mm,Soil_Type
+Maharashtra,Pune,Rice,Kharif,1500,3.2,4800,28,650,Black clay
+Maharashtra,Pune,Wheat,Rabi,800,2.8,2240,22,450,Alluvial
+Karnataka,Bangalore,Maize,Kharif,600,4.1,2460,26,720,Red loamy
+Karnataka,Bangalore,Cotton,Kharif,900,2.5,2250,30,580,Black cotton
+Tamil Nadu,Coimbatore,Sugarcane,Annual,1200,85,102000,29,800,Red soil
+Tamil Nadu,Coimbatore,Banana,Annual,300,35,10500,27,1200,Alluvial
+Gujarat,Ahmedabad,Groundnut,Kharif,2000,1.8,3600,31,550,Sandy loam
+Gujarat,Ahmedabad,Cotton,Kharif,1500,2.2,3300,32,480,Black cotton
+Punjab,Ludhiana,Wheat,Rabi,5000,4.5,22500,18,400,Alluvial
+Punjab,Ludhiana,Rice,Kharif,3000,3.8,11400,25,600,Clay loam
+Uttar Pradesh,Lucknow,Sugarcane,Annual,800,75,60000,26,850,Alluvial
+Uttar Pradesh,Lucknow,Pulses,Kharif,400,1.2,480,28,650,Loamy
+West Bengal,Kolkata,Rice,Kharif,2500,3.5,8750,29,1400,Alluvial
+West Bengal,Kolkata,Jute,Kharif,600,2.8,1680,30,1200,Clay
+Rajasthan,Jaipur,Millet,Kharif,3000,1.5,4500,32,350,Sandy
+Rajasthan,Jaipur,Mustard,Rabi,1800,1.8,3240,20,300,Desert soil
+Madhya Pradesh,Bhopal,Soybean,Kharif,4000,2.2,8800,27,900,Black cotton
+Madhya Pradesh,Bhopal,Wheat,Rabi,2500,3.2,8000,22,650,Alluvial
+Andhra Pradesh,Hyderabad,Rice,Kharif,1800,4.2,7560,29,800,Deltaic
+Andhra Pradesh,Hyderabad,Cotton,Kharif,1200,2.8,3360,31,650,Black cotton
+Telangana,Hyderabad,Maize,Kharif,900,3.8,3420,28,750,Red soil
+Telangana,Hyderabad,Pulses,Kharif,600,1.5,900,30,600,Loamy
+Kerala,Thiruvananthapuram,Rice,Kharif,400,2.8,1120,27,2800,Laterite
+Kerala,Thiruvananthapuram,Coconut,Annual,200,8000,1600000,28,3000,Coastal sandy
+Odisha,Bhubaneswar,Rice,Kharif,2200,3.2,7040,29,1300,Deltaic alluvial
+Odisha,Bhubaneswar,Pulses,Kharif,800,1.8,1440,30,1100,Red soil
+Bihar,Patna,Rice,Kharif,3500,3.5,12250,28,1000,Gangetic alluvial
+Bihar,Patna,Wheat,Rabi,2800,3.8,10640,20,800,Alluvial
+Haryana,Chandigarh,Wheat,Rabi,2000,4.2,8400,19,450,Alluvial
+Haryana,Chandigarh,Mustard,Rabi,800,2.2,1760,21,350,Loamy

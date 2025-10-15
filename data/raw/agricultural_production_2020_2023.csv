@@ -1,0 +1,125 @@
+State,District,Crop,Season,Year,Area_hectares,Yield_tonnes_per_ha,Production_tonnes,Irrigation_percent,Soil_Type,Fertilizer_kg_per_ha
+Maharashtra,Pune,Rice,Kharif,2020,1400,3.3,4620,75,Black clay,120
+Maharashtra,Pune,Rice,Kharif,2021,1450,3.1,4495,78,Black clay,115
+Maharashtra,Pune,Rice,Kharif,2022,1500,3.2,4800,80,Black clay,118
+Maharashtra,Pune,Rice,Kharif,2023,1480,3.4,5032,82,Black clay,125
+Maharashtra,Pune,Wheat,Rabi,2020,780,2.7,2106,85,Alluvial,95
+Maharashtra,Pune,Wheat,Rabi,2021,790,2.8,2212,87,Alluvial,98
+Maharashtra,Pune,Wheat,Rabi,2022,800,2.8,2240,88,Alluvial,100
+Maharashtra,Pune,Wheat,Rabi,2023,820,2.9,2378,90,Alluvial,102
+Maharashtra,Nashik,Grapes,Annual,2020,2500,18.5,46250,95,Black cotton,200
+Maharashtra,Nashik,Grapes,Annual,2021,2550,18.2,46410,96,Black cotton,205
+Maharashtra,Nashik,Grapes,Annual,2022,2600,18.8,48880,97,Black cotton,210
+Maharashtra,Nashik,Grapes,Annual,2023,2650,19.1,50615,98,Black cotton,215
+Karnataka,Bangalore,Maize,Kharif,2020,580,4.0,2320,60,Red loamy,85
+Karnataka,Bangalore,Maize,Kharif,2021,590,4.1,2419,62,Red loamy,88
+Karnataka,Bangalore,Maize,Kharif,2022,600,4.1,2460,65,Red loamy,90
+Karnataka,Bangalore,Maize,Kharif,2023,610,4.2,2562,68,Red loamy,92
+Karnataka,Bangalore,Cotton,Kharif,2020,880,2.4,2112,70,Black cotton,150
+Karnataka,Bangalore,Cotton,Kharif,2021,890,2.5,2225,72,Black cotton,155
+Karnataka,Bangalore,Cotton,Kharif,2022,900,2.5,2250,75,Black cotton,160
+Karnataka,Bangalore,Cotton,Kharif,2023,920,2.6,2392,78,Black cotton,165
+Tamil Nadu,Coimbatore,Sugarcane,Annual,2020,1150,82,94300,90,Red soil,300
+Tamil Nadu,Coimbatore,Sugarcane,Annual,2021,1180,84,99120,92,Red soil,310
+Tamil Nadu,Coimbatore,Sugarcane,Annual,2022,1200,85,102000,93,Red soil,320
+Tamil Nadu,Coimbatore,Sugarcane,Annual,2023,1220,87,106140,95,Red soil,330
+Tamil Nadu,Coimbatore,Banana,Annual,2020,290,33,9570,85,Alluvial,180
+Tamil Nadu,Coimbatore,Banana,Annual,2021,295,34,10030,87,Alluvial,185
+Tamil Nadu,Coimbatore,Banana,Annual,2022,300,35,10500,88,Alluvial,190
+Tamil Nadu,Coimbatore,Banana,Annual,2023,305,36,10980,90,Alluvial,195
+Punjab,Ludhiana,Wheat,Rabi,2020,4800,4.3,20640,98,Alluvial,140
+Punjab,Ludhiana,Wheat,Rabi,2021,4900,4.4,21560,98,Alluvial,145
+Punjab,Ludhiana,Wheat,Rabi,2022,5000,4.5,22500,99,Alluvial,150
+Punjab,Ludhiana,Wheat,Rabi,2023,5100,4.6,23460,99,Alluvial,155
+Punjab,Ludhiana,Rice,Kharif,2020,2900,3.7,10730,95,Clay loam,110
+Punjab,Ludhiana,Rice,Kharif,2021,2950,3.8,11210,96,Clay loam,115
+Punjab,Ludhiana,Rice,Kharif,2022,3000,3.8,11400,97,Clay loam,118
+Punjab,Ludhiana,Rice,Kharif,2023,3050,3.9,11895,98,Clay loam,120
+Gujarat,Ahmedabad,Cotton,Kharif,2020,1450,2.1,3045,65,Black cotton,130
+Gujarat,Ahmedabad,Cotton,Kharif,2021,1480,2.2,3256,68,Black cotton,135
+Gujarat,Ahmedabad,Cotton,Kharif,2022,1500,2.2,3300,70,Black cotton,140
+Gujarat,Ahmedabad,Cotton,Kharif,2023,1520,2.3,3496,72,Black cotton,145
+Gujarat,Ahmedabad,Groundnut,Kharif,2020,1950,1.7,3315,55,Sandy loam,80
+Gujarat,Ahmedabad,Groundnut,Kharif,2021,1980,1.8,3564,58,Sandy loam,85
+Gujarat,Ahmedabad,Groundnut,Kharif,2022,2000,1.8,3600,60,Sandy loam,88
+Gujarat,Ahmedabad,Groundnut,Kharif,2023,2020,1.9,3838,62,Sandy loam,90
+Rajasthan,Jaipur,Millet,Kharif,2020,2950,1.4,4130,25,Sandy,45
+Rajasthan,Jaipur,Millet,Kharif,2021,2980,1.5,4470,28,Sandy,48
+Rajasthan,Jaipur,Millet,Kharif,2022,3000,1.5,4500,30,Sandy,50
+Rajasthan,Jaipur,Millet,Kharif,2023,3020,1.6,4832,32,Sandy,52
+Rajasthan,Jaipur,Mustard,Rabi,2020,1750,1.7,2975,35,Desert soil,65
+Rajasthan,Jaipur,Mustard,Rabi,2021,1780,1.8,3204,38,Desert soil,68
+Rajasthan,Jaipur,Mustard,Rabi,2022,1800,1.8,3240,40,Desert soil,70
+Rajasthan,Jaipur,Mustard,Rabi,2023,1820,1.9,3458,42,Desert soil,72
+Madhya Pradesh,Bhopal,Soybean,Kharif,2020,3950,2.1,8295,45,Black cotton,75
+Madhya Pradesh,Bhopal,Soybean,Kharif,2021,3980,2.2,8756,48,Black cotton,78
+Madhya Pradesh,Bhopal,Soybean,Kharif,2022,4000,2.2,8800,50,Black cotton,80
+Madhya Pradesh,Bhopal,Soybean,Kharif,2023,4020,2.3,9246,52,Black cotton,82
+Madhya Pradesh,Bhopal,Wheat,Rabi,2020,2450,3.1,7595,55,Alluvial,95
+Madhya Pradesh,Bhopal,Wheat,Rabi,2021,2480,3.2,7936,58,Alluvial,98
+Madhya Pradesh,Bhopal,Wheat,Rabi,2022,2500,3.2,8000,60,Alluvial,100
+Madhya Pradesh,Bhopal,Wheat,Rabi,2023,2520,3.3,8316,62,Alluvial,102
+Uttar Pradesh,Lucknow,Sugarcane,Annual,2020,780,73,56940,85,Alluvial,280
+Uttar Pradesh,Lucknow,Sugarcane,Annual,2021,790,74,58460,87,Alluvial,285
+Uttar Pradesh,Lucknow,Sugarcane,Annual,2022,800,75,60000,88,Alluvial,290
+Uttar Pradesh,Lucknow,Sugarcane,Annual,2023,810,76,61560,90,Alluvial,295
+Uttar Pradesh,Lucknow,Pulses,Kharif,2020,390,1.1,429,40,Loamy,55
+Uttar Pradesh,Lucknow,Pulses,Kharif,2021,395,1.2,474,42,Loamy,58
+Uttar Pradesh,Lucknow,Pulses,Kharif,2022,400,1.2,480,45,Loamy,60
+Uttar Pradesh,Lucknow,Pulses,Kharif,2023,405,1.3,526,48,Loamy,62
+West Bengal,Kolkata,Rice,Kharif,2020,2450,3.4,8330,80,Alluvial,100
+West Bengal,Kolkata,Rice,Kharif,2021,2480,3.5,8680,82,Alluvial,105
+West Bengal,Kolkata,Rice,Kharif,2022,2500,3.5,8750,85,Alluvial,108
+West Bengal,Kolkata,Rice,Kharif,2023,2520,3.6,9072,87,Alluvial,110
+West Bengal,Kolkata,Jute,Kharif,2020,580,2.7,1566,75,Clay,90
+West Bengal,Kolkata,Jute,Kharif,2021,590,2.8,1652,77,Clay,95
+West Bengal,Kolkata,Jute,Kharif,2022,600,2.8,1680,78,Clay,98
+West Bengal,Kolkata,Jute,Kharif,2023,610,2.9,1769,80,Clay,100
+Odisha,Bhubaneswar,Rice,Kharif,2020,2150,3.1,6665,70,Deltaic alluvial,95
+Odisha,Bhubaneswar,Rice,Kharif,2021,2180,3.2,6976,72,Deltaic alluvial,98
+Odisha,Bhubaneswar,Rice,Kharif,2022,2200,3.2,7040,75,Deltaic alluvial,100
+Odisha,Bhubaneswar,Rice,Kharif,2023,2220,3.3,7326,77,Deltaic alluvial,102
+Odisha,Bhubaneswar,Pulses,Kharif,2020,780,1.7,1326,45,Red soil,50
+Odisha,Bhubaneswar,Pulses,Kharif,2021,790,1.8,1422,48,Red soil,52
+Odisha,Bhubaneswar,Pulses,Kharif,2022,800,1.8,1440,50,Red soil,55
+Odisha,Bhubaneswar,Pulses,Kharif,2023,810,1.9,1539,52,Red soil,58
+Bihar,Patna,Rice,Kharif,2020,3400,3.4,11560,75,Gangetic alluvial,90
+Bihar,Patna,Rice,Kharif,2021,3450,3.5,12075,77,Gangetic alluvial,95
+Bihar,Patna,Rice,Kharif,2022,3500,3.5,12250,78,Gangetic alluvial,98
+Bihar,Patna,Rice,Kharif,2023,3550,3.6,12780,80,Gangetic alluvial,100
+Bihar,Patna,Wheat,Rabi,2020,2750,3.7,10175,80,Alluvial,110
+Bihar,Patna,Wheat,Rabi,2021,2780,3.8,10564,82,Alluvial,115
+Bihar,Patna,Wheat,Rabi,2022,2800,3.8,10640,85,Alluvial,118
+Bihar,Patna,Wheat,Rabi,2023,2820,3.9,10998,87,Alluvial,120
+Haryana,Chandigarh,Wheat,Rabi,2020,1950,4.1,7995,95,Alluvial,130
+Haryana,Chandigarh,Wheat,Rabi,2021,1980,4.2,8316,96,Alluvial,135
+Haryana,Chandigarh,Wheat,Rabi,2022,2000,4.2,8400,97,Alluvial,140
+Haryana,Chandigarh,Wheat,Rabi,2023,2020,4.3,8686,98,Alluvial,145
+Haryana,Chandigarh,Mustard,Rabi,2020,780,2.1,1638,60,Loamy,70
+Haryana,Chandigarh,Mustard,Rabi,2021,790,2.2,1738,62,Loamy,75
+Haryana,Chandigarh,Mustard,Rabi,2022,800,2.2,1760,65,Loamy,78
+Haryana,Chandigarh,Mustard,Rabi,2023,810,2.3,1863,68,Loamy,80
+Telangana,Hyderabad,Maize,Kharif,2020,880,3.7,3256,55,Red soil,80
+Telangana,Hyderabad,Maize,Kharif,2021,890,3.8,3382,58,Red soil,85
+Telangana,Hyderabad,Maize,Kharif,2022,900,3.8,3420,60,Red soil,88
+Telangana,Hyderabad,Maize,Kharif,2023,910,3.9,3549,62,Red soil,90
+Telangana,Hyderabad,Pulses,Kharif,2020,580,1.4,812,35,Loamy,45
+Telangana,Hyderabad,Pulses,Kharif,2021,590,1.5,885,38,Loamy,48
+Telangana,Hyderabad,Pulses,Kharif,2022,600,1.5,900,40,Loamy,50
+Telangana,Hyderabad,Pulses,Kharif,2023,610,1.6,976,42,Loamy,52
+Kerala,Thiruvananthapuram,Rice,Kharif,2020,390,2.7,1053,90,Laterite,60
+Kerala,Thiruvananthapuram,Rice,Kharif,2021,395,2.8,1106,92,Laterite,65
+Kerala,Thiruvananthapuram,Rice,Kharif,2022,400,2.8,1120,93,Laterite,68
+Kerala,Thiruvananthapuram,Rice,Kharif,2023,405,2.9,1174,95,Laterite,70
+Kerala,Thiruvananthapuram,Coconut,Annual,2020,195,7900,1540500,85,Coastal sandy,120
+Kerala,Thiruvananthapuram,Coconut,Annual,2021,198,8000,1584000,87,Coastal sandy,125
+Kerala,Thiruvananthapuram,Coconut,Annual,2022,200,8000,1600000,88,Coastal sandy,130
+Kerala,Thiruvananthapuram,Coconut,Annual,2023,202,8100,1636200,90,Coastal sandy,135
+Andhra Pradesh,Hyderabad,Rice,Kharif,2020,1750,4.1,7175,70,Deltaic,110
+Andhra Pradesh,Hyderabad,Rice,Kharif,2021,1780,4.2,7476,72,Deltaic,115
+Andhra Pradesh,Hyderabad,Rice,Kharif,2022,1800,4.2,7560,75,Deltaic,118
+Andhra Pradesh,Hyderabad,Rice,Kharif,2023,1820,4.3,7826,77,Deltaic,120
+Andhra Pradesh,Hyderabad,Cotton,Kharif,2020,1180,2.7,3186,60,Black cotton,140
+Andhra Pradesh,Hyderabad,Cotton,Kharif,2021,1190,2.8,3332,62,Black cotton,145
+Andhra Pradesh,Hyderabad,Cotton,Kharif,2022,1200,2.8,3360,65,Black cotton,150
+Andhra Pradesh,Hyderabad,Cotton,Kharif,2023,1210,2.9,3509,68,Black cotton,155

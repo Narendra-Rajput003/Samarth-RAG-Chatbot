@@ -1,0 +1,144 @@
+2025-10-14T13:16:08.578850+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T19:56:30.192961+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-14T19:56:30.288668+0530 | ERROR | Error loading data from data/raw\climate_data_2020_2023.csv: 'Production_tonnes' | {}
+2025-10-14T19:56:30.310396+0530 | ERROR | Error loading data from data/raw\sample_agri_data.csv: 'Year' | {}
+2025-10-14T19:56:31.114894+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-14T19:56:31.190284+0530 | ERROR | Error loading data from data/raw\climate_data_2020_2023.csv: 'Production_tonnes' | {}
+2025-10-14T19:56:31.225587+0530 | ERROR | Error loading data from data/raw\sample_agri_data.csv: 'Year' | {}
+2025-10-14T20:25:32.660755+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-14T20:25:33.219132+0530 | INFO | Chunked 148 documents from data/raw\climate_data_2020_2023.csv | {}
+2025-10-14T20:25:33.243456+0530 | WARNING | Missing required columns ['State', 'Year'] in data/raw\sample_agri_data.csv, skipping agricultural chunking | {}
+2025-10-14T20:25:33.243920+0530 | INFO | Chunked 0 documents from data/raw\sample_agri_data.csv | {}
+2025-10-14T20:25:49.478858+0530 | INFO | Vector store built | {}
+2025-10-14T20:25:49.480696+0530 | INFO | Index built. Starting API... | {}
+2025-10-14T20:27:21.673872+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T20:30:55.336825+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-14T20:30:55.520309+0530 | INFO | Chunked 148 documents from data/raw\climate_data_2020_2023.csv | {}
+2025-10-14T20:30:55.528790+0530 | WARNING | Missing required columns ['State', 'Year'] in data/raw\sample_agri_data.csv, skipping agricultural chunking | {}
+2025-10-14T20:30:55.529431+0530 | INFO | Chunked 0 documents from data/raw\sample_agri_data.csv | {}
+2025-10-14T20:30:59.515531+0530 | INFO | Vector store built | {}
+2025-10-14T20:30:59.516562+0530 | INFO | Index built. Starting API... | {}
+2025-10-14T20:31:38.175070+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T20:31:53.907506+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-14T20:31:53.913722+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-14T20:31:53.984487+0530 | INFO | Combined dataset: 4 records | {}
+2025-10-14T20:31:54.005821+0530 | INFO | Query using Gemini 2.0 Flash: What was the total rice production in Maharashtra  | {}
+2025-10-14T20:37:01.253768+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T20:37:01.933351+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-14T20:37:02.338697+0530 | INFO | Chunked 148 documents from data/raw\climate_data_2020_2023.csv | {}
+2025-10-14T20:37:02.350976+0530 | WARNING | Missing required columns ['State', 'Year'] in data/raw\sample_agri_data.csv, skipping agricultural chunking | {}
+2025-10-14T20:37:02.353244+0530 | INFO | Chunked 0 documents from data/raw\sample_agri_data.csv | {}
+2025-10-14T20:37:19.940058+0530 | INFO | Vector store built | {}
+2025-10-14T20:37:19.941766+0530 | INFO | Index built. Starting API... | {}
+2025-10-14T20:38:19.412058+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T20:41:22.355661+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-14T20:41:23.024350+0530 | INFO | Chunked 148 documents from data/raw\climate_data_2020_2023.csv | {}
+2025-10-14T20:41:23.109645+0530 | WARNING | Missing required columns ['State', 'Year'] in data/raw\sample_agri_data.csv, skipping agricultural chunking | {}
+2025-10-14T20:41:23.128464+0530 | INFO | Chunked 0 documents from data/raw\sample_agri_data.csv | {}
+2025-10-14T20:41:35.038176+0530 | INFO | Vector store built | {}
+2025-10-14T20:41:35.042720+0530 | INFO | Index built. Starting API... | {}
+2025-10-14T20:43:06.307361+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-14T20:43:06.508855+0530 | INFO | Chunked 148 documents from data/raw\climate_data_2020_2023.csv | {}
+2025-10-14T20:43:06.517900+0530 | WARNING | Missing required columns ['State', 'Year'] in data/raw\sample_agri_data.csv, skipping agricultural chunking | {}
+2025-10-14T20:43:06.518474+0530 | INFO | Chunked 0 documents from data/raw\sample_agri_data.csv | {}
+2025-10-14T20:43:10.768766+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T20:43:12.213072+0530 | INFO | Vector store built | {}
+2025-10-14T20:43:12.214723+0530 | INFO | Index built. Starting API... | {}
+2025-10-14T20:43:57.738413+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T20:47:46.643977+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T20:49:03.202465+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T21:07:25.098406+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T21:07:25.120986+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T22:05:33.683208+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T22:56:39.904744+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T23:04:07.888123+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T23:04:07.891714+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T23:06:44.611273+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T23:11:02.432463+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-14T23:11:03.164230+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T00:32:30.221113+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-15T00:32:30.703747+0530 | INFO | Chunked 148 documents from data/raw\climate_data_2020_2023.csv | {}
+2025-10-15T00:32:30.819268+0530 | WARNING | Missing required columns ['State', 'Year'] in data/raw\sample_agri_data.csv, skipping agricultural chunking | {}
+2025-10-15T00:32:30.829855+0530 | INFO | Chunked 0 documents from data/raw\sample_agri_data.csv | {}
+2025-10-15T00:32:41.458965+0530 | INFO | Vector store built | {}
+2025-10-15T00:32:41.465135+0530 | INFO | Index built. Starting API... | {}
+2025-10-15T00:35:36.982987+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T00:45:49.715386+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T00:46:46.765365+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-15T00:46:46.815702+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-15T00:46:47.181883+0530 | INFO | Combined dataset: 4 records | {}
+2025-10-15T00:46:47.259918+0530 | INFO | Query using Gemini 2.0 Flash: What was the total rice production in Maharashtra  | {}
+2025-10-15T00:49:35.632533+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T19:07:18.983486+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-15T19:07:19.261281+0530 | INFO | Chunked 148 documents from data/raw\climate_data_2020_2023.csv | {}
+2025-10-15T19:07:19.271652+0530 | WARNING | Missing required columns ['State', 'Year'] in data/raw\sample_agri_data.csv, skipping agricultural chunking | {}
+2025-10-15T19:07:19.272178+0530 | INFO | Chunked 0 documents from data/raw\sample_agri_data.csv | {}
+2025-10-15T19:07:25.380859+0530 | INFO | Vector store built | {}
+2025-10-15T19:07:25.382329+0530 | INFO | Index built. Starting API... | {}
+2025-10-15T19:09:40.016914+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:20:49.689814+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:21:51.460560+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:33:12.402572+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-15T20:33:12.558571+0530 | INFO | Chunked 148 documents from data/raw\climate_data_2020_2023.csv | {}
+2025-10-15T20:33:12.565466+0530 | WARNING | Missing required columns ['State', 'Year'] in data/raw\sample_agri_data.csv, skipping agricultural chunking | {}
+2025-10-15T20:33:12.566049+0530 | INFO | Chunked 0 documents from data/raw\sample_agri_data.csv | {}
+2025-10-15T20:33:43.510615+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-15T20:33:43.573402+0530 | INFO | Chunked 148 documents from data/raw\climate_data_2020_2023.csv | {}
+2025-10-15T20:33:43.576656+0530 | WARNING | Missing required columns ['State', 'Year'] in data/raw\sample_agri_data.csv, skipping agricultural chunking | {}
+2025-10-15T20:33:43.576920+0530 | INFO | Chunked 0 documents from data/raw\sample_agri_data.csv | {}
+2025-10-15T20:33:45.224147+0530 | INFO | Vector store built | {}
+2025-10-15T20:33:45.224664+0530 | INFO | Index built. Starting API... | {}
+2025-10-15T20:35:31.636338+0530 | INFO | Chunked 184 documents from data/raw\agricultural_production_2020_2023.csv | {}
+2025-10-15T20:35:31.811365+0530 | INFO | Chunked 148 documents from data/raw\climate_data_2020_2023.csv | {}
+2025-10-15T20:35:31.819254+0530 | WARNING | Missing required columns ['State', 'Year'] in data/raw\sample_agri_data.csv, skipping agricultural chunking | {}
+2025-10-15T20:35:31.819880+0530 | INFO | Chunked 0 documents from data/raw\sample_agri_data.csv | {}
+2025-10-15T20:35:34.798237+0530 | INFO | Vector store built | {}
+2025-10-15T20:35:34.799429+0530 | INFO | Index built. Starting API... | {}
+2025-10-15T20:36:10.261774+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:36:28.474471+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-15T20:36:28.477254+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-15T20:36:28.502967+0530 | INFO | Combined dataset: 4 records | {}
+2025-10-15T20:36:28.517412+0530 | INFO | Query using Gemini 2.0 Flash: Which district in Maharashtra has the highest rice | {}
+2025-10-15T20:37:08.396156+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-15T20:37:08.397978+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-15T20:37:08.407913+0530 | INFO | Combined dataset: 6 records | {}
+2025-10-15T20:37:08.419694+0530 | INFO | Query using Gemini 2.0 Flash: Compare rice production between Maharashtra and Ka | {}
+2025-10-15T20:37:43.129712+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-15T20:37:43.131630+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-15T20:37:43.138914+0530 | INFO | Combined dataset: 2 records | {}
+2025-10-15T20:37:43.145463+0530 | INFO | Query using Gemini 2.0 Flash: how the trend of wheat production in Punjab over t | {}
+2025-10-15T20:38:20.182466+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-15T20:38:20.184531+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-15T20:38:20.191314+0530 | INFO | Combined dataset: 4 records | {}
+2025-10-15T20:38:20.198276+0530 | INFO | Query using Gemini 2.0 Flash: Which district in Maharashtra has the highest rice | {}
+2025-10-15T20:45:14.594471+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:45:32.099047+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:45:32.121895+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-15T20:45:32.123551+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-15T20:45:32.187041+0530 | INFO | Combined dataset: 4 records | {}
+2025-10-15T20:45:59.136894+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:45:59.138959+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-15T20:45:59.140199+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-15T20:45:59.144832+0530 | INFO | Combined dataset: 4 records | {}
+2025-10-15T20:46:30.511855+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:46:30.513705+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-15T20:46:30.514642+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-15T20:46:30.519710+0530 | INFO | Combined dataset: 4 records | {}
+2025-10-15T20:46:53.638776+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:46:53.643456+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-15T20:46:53.647883+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-15T20:46:53.663014+0530 | INFO | Combined dataset: 4 records | {}
+2025-10-15T20:47:18.610618+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:47:18.611472+0530 | ERROR | RAG pipeline error: The de-serialization relies loading a pickle file. Pickle files can be modified to deliver a malicious payload that results in execution of arbitrary code on your machine.You will need to set `allow_dangerous_deserialization` to `True` to enable deserialization. If you do this, make sure that you trust the source of the data. For example, if you are loading a file that you created, and know that no one else has modified the file, then this is safe to do. Do not set this to `True` if you are loading a file from an untrusted source (e.g., some random site on the internet.). | {}
+2025-10-15T20:47:50.367647+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:47:50.699790+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:48:23.378980+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:48:23.381123+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-15T20:48:23.382213+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-15T20:48:23.388231+0530 | INFO | Combined dataset: 2 records | {}
+2025-10-15T20:48:45.828709+0530 | INFO | Using Gemini 2.0 Flash LLM | {}
+2025-10-15T20:49:41.158980+0530 | INFO | Retrieved agricultural data: 10 records | {}
+2025-10-15T20:49:41.161914+0530 | INFO | Retrieved climate data: 9 records | {}
+2025-10-15T20:49:41.172549+0530 | INFO | Combined dataset: 2 records | {}
+2025-10-15T20:49:41.179739+0530 | INFO | Query using Gemini 2.0 Flash: How much rice was produced in Punjab in 2022? | {}
+2025-10-15T20:50:40.138028+0530 | INFO | Query using Gemini 2.0 Flash: What are the best crops to grow in Karnataka? | {}
